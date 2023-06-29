@@ -10,7 +10,7 @@ Danet ; Game Dev & Python/Cpp Programmer[CP Programmer]💻.🎮!
 
 [![DanetStats](https://github-readme-stats.vercel.app/api?username=Danet-y&show_icons=true&title_color=blue&bg_color=022934&icon_color=2D9787&border_radius=40&hide_border=false&text_color=9DC6BC)](https://github.com/Danet-y)
 
-[![Danet Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Danet-y&show_icons=true&title_color=blue&bg_color=022934&icon_color=2D9787&border_radius=40&hide_border=false&text_color=9DC6BC)](https://github.com/Danet-y)
+[![Danet Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Danet-y&show_icons=true&title_color=gold&bg_color=022934&icon_color=2D9787&border_radius=40&hide_border=false&text_color=9DC6BC)](https://github.com/Danet-y)
 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Danet-y&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Danet-y&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
