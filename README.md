@@ -8,7 +8,7 @@ Danet ; Game Dev & Python/Cpp Programmer[CP Programmer]💻.🎮!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.khalili.ai@gmail.com)](mailto:amir.khalili.ai@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/bd8xcCbYD9)
 
-[![DanetStats](https://github-readme-stats.vercel.app/api?username=Danet-y&show_icons=true&title_color=blue&bg_color=022934&icon_color=2D9787&border_radius=40&hide_border=false&text_color=9DC6BC)](https://github.com/Danet-y)
+[![DanetStats](https://github-readme-stats.vercel.app/api?username=Danet-y&show_icons=true&title_color=gold&bg_color=022934&icon_color=2D9787&border_radius=40&hide_border=false&text_color=9DC6BC)](https://github.com/Danet-y)
 
 [![Danet Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Danet-y&show_icons=true&title_color=gold&bg_color=022934&icon_color=2D9787&border_radius=40&hide_border=false&text_color=9DC6BC)](https://github.com/Danet-y)
 
